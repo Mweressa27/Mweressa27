@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Mweressa27/Mweressa27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### Formula Racing Aerodynamics
+
+<a href="https://github.com/Mweressa27/Columbia-Formula-SAE-Aerodynamics">
+<img src="images/aerodynamics.jpg" width="300">
+</a>
+
+<br><br>
+
+<a href="https://github.com/Mweressa27/Columbia-Formula-SAE-Aerodynamics">
+<img src="https://img.shields.io/badge/View%20Repository-9B4DCA?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+### Quadruped Leg
+
+<a href="https://github.com/Mweressa27/Quadruped-Leg">
+<img src="images/quadruped.jpg" width="300">
+</a>
+
+<br><br>
+
+<a href="https://github.com/Mweressa27/Quadruped-Leg">
+<img src="https://img.shields.io/badge/View%20Repository-9B4DCA?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+### Hippotherapy Simulator Research
+
+<a href="https://github.com/Mweressa27/Hippotherapy-simulator">
+<img src="images/hippotherapy.jpg" width="300">
+</a>
+
+<br><br>
+
+<a href="https://github.com/Mweressa27/Hippotherapy-simulator">
+<img src="https://img.shields.io/badge/View%20Repository-9B4DCA?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="25%" valign="top">
+
+</td>
+
+</tr>
+</table>
+
+
